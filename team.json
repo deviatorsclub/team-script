@@ -1,0 +1,14 @@
+[
+  {
+    "name": "John Doe",
+    "roles": ["Research", "Content writing"],
+    "joiningDate": "1st June 2024",
+    "monthsPeriod": 2
+  },
+  {
+    "name": "Jane Smith",
+    "roles": ["Backup Speakeraaa", "Design Team", "aaa", "aa", "af"],
+    "joiningDate": "15th June 2024",
+    "monthsPeriod": 6
+  }
+]
