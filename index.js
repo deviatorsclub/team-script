@@ -7,6 +7,9 @@ const teamData = JSON.parse(fs.readFileSync("team.json", "utf8"));
 const lettersDir = path.join(__dirname, "letters");
 if (!fs.existsSync(lettersDir)) {
   fs.mkdirSync(lettersDir);
+} else {
+  fs.rmSync(lettersDir, { recursive: true });
+  fs.mkdirSync(lettersDir);
 }
 
 function generatePDF(member) {
@@ -24,7 +27,7 @@ function generatePDF(member) {
   doc.text("Dronacharya College of Engineering", 10, 45);
   doc.text("Gurugram, Haryana, 123506", 10, 50);
 
-  const pageWidth = doc.internal.pageSize.getWidth()-20;
+  const pageWidth = doc.internal.pageSize.getWidth() - 20;
   doc.text("August 14th, 2024", pageWidth - 10, 40, { align: "right" });
 
   doc.setFont("helvetica", "bold");
