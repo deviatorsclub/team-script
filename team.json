@@ -1,55 +1,55 @@
 [
   {
     "name": "Kanak Tanwar",
-    "roles": ["Lead", "AI team lead"],
+    "roles": ["Club Lead", "AI lead"],
     "joiningDate": "15th February 2024",
     "monthsPeriod": 12
   },
   {
     "name": "Vivek Chahal",
-    "roles": ["Co-lead", "AI team", "Event management"],
+    "roles": ["Co-lead", "AI team"],
     "joiningDate": "15th February 2024",
     "monthsPeriod": 12
   },
   {
     "name": "Ayush Goyal",
-    "roles": ["Event management", "Team Coordination"],
+    "roles": ["Event management Lead", "Team Coordinator", "Web Team"],
     "joiningDate": "15th February 2024",
     "monthsPeriod": 12
   },
   {
     "name": "Pulkit",
-    "roles": ["Chairperson", "Web team lead"],
+    "roles": ["Chairperson", "Web lead"],
     "joiningDate": "15th February 2024",
     "monthsPeriod": 12
   },
   {
     "name": "Krishna Kartikay Bhatt",
-    "roles": ["Cyber Security", "Event Lead"],
+    "roles": ["Cyber Security Lead", "Event management"],
     "joiningDate": "15th February 2024",
     "monthsPeriod": 12
   },
   {
     "name": "Diksha Sharma",
-    "roles": ["Design team"],
+    "roles": ["UI/UX Lead", "Women in Tech"],
     "joiningDate": "15th June 2024",
     "monthsPeriod": 9
   },
   {
     "name": "Deepika Anand",
-    "roles": ["Women in Tech Lead"],
+    "roles": ["Women in Tech Lead", "Event management"],
     "joiningDate": "15th June 2024",
     "monthsPeriod": 9
   },
   {
     "name": "Divyansh Sethi",
-    "roles": ["Backup Speaker", "DSA team"],
+    "roles": ["DSA team", "Event management"],
     "joiningDate": "15th June 2024",
     "monthsPeriod": 9
   },
   {
     "name": "Yash Kumar",
-    "roles": ["DSA team"],
+    "roles": ["DSA team", "Event management"],
     "joiningDate": "15th June 2024",
     "monthsPeriod": 9
   },
@@ -61,19 +61,19 @@
   },
   {
     "name": "Dipti",
-    "roles": ["DSA team"],
+    "roles": ["DSA team", "Women in Tech"],
     "joiningDate": "15th June 2024",
     "monthsPeriod": 9
   },
   {
     "name": "Tanmay Verma",
-    "roles": ["Photography", "Social Media"],
+    "roles": ["Social Media", "Web Team"],
     "joiningDate": "15th June 2024",
     "monthsPeriod": 9
   },
   {
     "name": "Kunal Verma",
-    "roles": ["Photography", "Social Media"],
+    "roles": ["Social Media", "Web Team"],
     "joiningDate": "15th June 2024",
     "monthsPeriod": 9
   },
@@ -85,13 +85,13 @@
   },
   {
     "name": "Vidushi Anand",
-    "roles": ["AI team", "Research and Content writing"],
+    "roles": ["AI team", "Women in Tech"],
     "joiningDate": "15th June 2024",
     "monthsPeriod": 9
   },
   {
     "name": "Pooja Goel",
-    "roles": ["Research and Content writing", "Backup Speaker", "Design Team"],
+    "roles": ["Web Team", "UI/UX Team", "Women in Tech"],
     "joiningDate": "15th June 2024",
     "monthsPeriod": 9
   },
